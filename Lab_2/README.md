@@ -32,12 +32,12 @@ Wewnątrz nawigatora umieściłem trzy komponenty screen, po jednym dla każdej 
 
 ### [Spread Operator](RNRespLayout/components/SpreadOperScreen.js)
 
-![alt text](screeny/screen-spread_syntax.png)\
+![alt text](screeny/screen-spread_syntax.png)
 
 ### [Rest Parameters](<(RNRespLayout/components/RestParamsScreen.js)>)
 
-![alt text](screeny/screen-rest_parameters.png)\
+![alt text](screeny/screen-rest_parameters.png)
 
 ### [React Hooks useState](RNRespLayout/components/ReactHooksScreen.js)
 
-![alt text](screeny/screen-react_hooks.png)\
+![alt text](screeny/screen-react_hooks.png)
