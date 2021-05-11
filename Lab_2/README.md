@@ -15,7 +15,7 @@
 Aplikacja składa się z trzech ekranów:
 
 - [Spread Operator](RNRespLayout/components/SpreadOperScreen.js)
-- [Rest Parameters](<(RNRespLayout/components/RestParamsScreen.js)>)
+- [Rest Parameters](RNRespLayout/components/RestParamsScreen.js)
 - [React Hooks useState](RNRespLayout/components/ReactHooksScreen.js)
 
 Wszystkie ekrany są do siebie bardzo podobne. Składają się z trzech głównych elementów: tytułu, tekstu i przycisku.
@@ -34,7 +34,7 @@ Wewnątrz nawigatora umieściłem trzy komponenty screen, po jednym dla każdej 
 
 ![alt text](screeny/screen-spread_syntax.png)
 
-### [Rest Parameters](<(RNRespLayout/components/RestParamsScreen.js)>)
+### [Rest Parameters](RNRespLayout/components/RestParamsScreen.js)
 
 ![alt text](screeny/screen-rest_parameters.png)
 
